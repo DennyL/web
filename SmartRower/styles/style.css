@@ -1,0 +1,46 @@
+html {
+    font-size: 12px; /*the base font size*/
+    font-family: 'Neuton', serif;
+    background-color: rgb(164, 226, 255);
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(255, 162, 31);
+    padding: 0 50px 50px 50px;
+    border: 5px solid black;
+}
+
+h1 {
+    font-size: 60px;
+    /*margin: 0;*/
+    text-align: center;
+    text-shadow: 3px 3px 1px black;
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+li {
+    font-size: 18px;
+    text-align: center;
+    line-height: 2;
+    /*letter-spacing: 1px;*/
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    padding: 15px;
+    margin: 0 auto;
+    display: block;
+}
